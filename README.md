@@ -76,7 +76,7 @@ Scrape the [DU main calendar](https://www.du.edu/calendar) and extract all event
 - **Event Title**  
 - **Event Date**  
 - **Event Time** (if available)  
-- **Event Description** (if available on the event page)  
+- **Event Description** (if available on the event page)  *DONT NEED TO DO THIS ANYMORE*
 
 Save the results in `results/calendar_events.json` using the format below:
 
@@ -94,7 +94,6 @@ Save the results in `results/calendar_events.json` using the format below:
             "title": "Event Title",
             "date": "Event Date",
             "time": "Event Time",
-            "description": "Event Description"
         },
         ...
     ]

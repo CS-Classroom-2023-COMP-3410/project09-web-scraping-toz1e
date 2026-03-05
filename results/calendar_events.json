@@ -1,0 +1,489 @@
+{
+  "events": [
+    {
+      "title": "MASA Meeting",
+      "date": "March 4",
+      "time": "11:00am - 12:00pm"
+    },
+    {
+      "title": "Lamont Symphony Orchestra & Choirs",
+      "date": "March 4",
+      "time": "7:30pm - 9:30pm"
+    },
+    {
+      "title": "STW Winter 2026",
+      "date": "March 5",
+      "time": "6:00am - 7:00am"
+    },
+    {
+      "title": "RSECS Executive and Leadership Meetings",
+      "date": "March 5",
+      "time": "12:00pm - 1:00pm"
+    },
+    {
+      "title": "Into the Woods",
+      "date": "March 5",
+      "time": "7:30pm - 10:00pm"
+    },
+    {
+      "title": "Wind Chamber Ensembles",
+      "date": "March 5",
+      "time": "7:30pm - 9:30pm"
+    },
+    {
+      "title": "CLUB Figure Skating Practice",
+      "date": "March 6",
+      "time": "7:15am - 8:15am"
+    },
+    {
+      "title": "2026 Senior History Conference",
+      "date": "March 6",
+      "time": "9:00am - 5:00pm"
+    },
+    {
+      "title": "Masterclass: Nermis Mieses, oboe",
+      "date": "March 6",
+      "time": "12:00pm - 1:00pm"
+    },
+    {
+      "title": "Masterclass: Michael Tetreault, percussion",
+      "date": "March 6",
+      "time": "1:00pm - 2:30pm"
+    },
+    {
+      "title": "DU DAD Club",
+      "date": "March 6",
+      "time": "5:00pm - 11:00pm"
+    },
+    {
+      "title": "Into the Woods",
+      "date": "March 6",
+      "time": "7:30pm - 10:00pm"
+    },
+    {
+      "title": "Undergraduate recital: Iris Hannon, voice",
+      "date": "March 6",
+      "time": "7:30pm - 9:30pm"
+    },
+    {
+      "title": "Reed Knife Sharpening Workshop with Tom Blodgett",
+      "date": "March 7",
+      "time": "10:00am - 11:30am"
+    },
+    {
+      "title": "Undergraduate recital: Matthew Sousa, percussion",
+      "date": "March 7",
+      "time": "10:30am - 12:30pm"
+    },
+    {
+      "title": "SOLD OUT: Bluegrass Ensemble",
+      "date": "March 7",
+      "time": "4:30pm - 6:30pm"
+    },
+    {
+      "title": "String Chamber Ensembles",
+      "date": "March 7",
+      "time": "7:30pm - 9:00pm"
+    },
+    {
+      "title": "Into the Woods",
+      "date": "March 7",
+      "time": "7:30pm - 10:00pm"
+    },
+    {
+      "title": "Undergraduate recital: Alex Wong, harp",
+      "date": "March 8",
+      "time": "10:30am - 12:30pm"
+    },
+    {
+      "title": "Graduate recital: Delaney Schnathorst, voice",
+      "date": "March 8",
+      "time": "1:30pm - 3:30pm"
+    },
+    {
+      "title": "Into the Woods",
+      "date": "March 8",
+      "time": "2:00pm - 4:30pm"
+    },
+    {
+      "title": "Vocal Jazz Groups: Vocal Collective, The Vocal Syndicate, & Resonance",
+      "date": "March 8",
+      "time": "4:30pm - 6:00pm"
+    },
+    {
+      "title": "Lamont Composers Concert Series",
+      "date": "March 8",
+      "time": "7:30pm - 9:30pm"
+    },
+    {
+      "title": "Biology Weekly Seminar",
+      "date": "March 9",
+      "time": "4:00pm - 5:30pm"
+    },
+    {
+      "title": "DU Clarion Weekly Meeting",
+      "date": "March 9",
+      "time": "6:00pm - 11:00pm"
+    },
+    {
+      "title": "Native Student Alliance E-Board Meeting",
+      "date": "March 9",
+      "time": "6:00pm - 8:00pm"
+    },
+    {
+      "title": "Steel Drum Ensemble",
+      "date": "March 9",
+      "time": "7:30pm - 9:00pm"
+    },
+    {
+      "title": "Parking_ General Manager Summit",
+      "date": "March 10",
+      "time": "7:00am - 5:30pm"
+    },
+    {
+      "title": "HRE Departmental Meeting",
+      "date": "March 10",
+      "time": "10:30am - 12:00pm"
+    },
+    {
+      "title": "CS Faculty Meetings",
+      "date": "March 10",
+      "time": "12:00pm - 1:30pm"
+    },
+    {
+      "title": "Brown Bag/Community AI Workshop with the Dean",
+      "date": "March 10",
+      "time": "12:00pm - 1:00pm"
+    },
+    {
+      "title": "CS Finance Meeting",
+      "date": "March 10",
+      "time": "2:00pm - 3:00pm"
+    },
+    {
+      "title": "Letters of Love Meeting",
+      "date": "March 10",
+      "time": "5:30pm - 7:00pm"
+    },
+    {
+      "title": "Liederabend",
+      "date": "March 10",
+      "time": "7:30pm - 9:30pm"
+    },
+    {
+      "title": "Parking_ General Manager Summit",
+      "date": "March 11",
+      "time": "7:00am - 5:30pm"
+    },
+    {
+      "title": "MASA Meeting",
+      "date": "March 11",
+      "time": "11:00am - 12:00pm"
+    },
+    {
+      "title": "E@DU 4impact Challenge Winter 2026",
+      "date": "March 11",
+      "time": "3:00pm - 9:00pm"
+    },
+    {
+      "title": "Guest artist recital: Mendelssohn Trio",
+      "date": "March 11",
+      "time": "7:30pm - 9:30pm"
+    },
+    {
+      "title": "Lamont Wind Ensemble",
+      "date": "March 11",
+      "time": "7:30pm - 9:30pm"
+    },
+    {
+      "title": "STW Winter 2026",
+      "date": "March 12",
+      "time": "6:00am - 7:00am"
+    },
+    {
+      "title": "RSECS Executive and Leadership Meetings",
+      "date": "March 12",
+      "time": "12:00pm - 1:00pm"
+    },
+    {
+      "title": "CS Finance Meeting with Tammy & Michelle",
+      "date": "March 12",
+      "time": "2:00pm - 3:00pm"
+    },
+    {
+      "title": "Cirque Kalabanté: Afrique en Cirque",
+      "date": "March 12",
+      "time": "7:30pm - 9:30pm"
+    },
+    {
+      "title": "Classical Guitar Ensembles",
+      "date": "March 12",
+      "time": "7:30pm - 9:00pm"
+    },
+    {
+      "title": "Lamont Winter Colloquium",
+      "date": "March 13",
+      "time": "2:30pm - 4:00pm"
+    },
+    {
+      "title": "DU DAD Club",
+      "date": "March 13",
+      "time": "5:00pm - 11:00pm"
+    },
+    {
+      "title": "Undergraduate recital: Trevor Briggs, jazz composition",
+      "date": "March 14",
+      "time": "4:30pm - 6:30pm"
+    },
+    {
+      "title": "Graduate recital: Maggie Sczekan, voice",
+      "date": "March 14",
+      "time": "4:30pm - 6:30pm"
+    },
+    {
+      "title": "Undergraduate recital: Emil Tellefsen, composition",
+      "date": "March 14",
+      "time": "7:30pm - 9:30pm"
+    },
+    {
+      "title": "Graduate recital: Puting Liu, voice",
+      "date": "March 14",
+      "time": "7:30pm - 9:30pm"
+    },
+    {
+      "title": "Student Carillon Concert",
+      "date": "March 15",
+      "time": "3:00pm - 4:00pm"
+    },
+    {
+      "title": "IM Soccer",
+      "date": "March 15",
+      "time": "4:00pm - 11:00pm"
+    },
+    {
+      "title": "Graduate recital: Timothy Coffey, clarinet",
+      "date": "March 15",
+      "time": "7:30pm - 9:30pm"
+    },
+    {
+      "title": "Deadline: Completion of Winter 2025 Incompletes",
+      "date": "March 16",
+      "time": "12:00am - 11:59pm"
+    },
+    {
+      "title": "Winter Quarter Last Day of Classes",
+      "date": "March 16",
+      "time": "12:00am - 11:59pm"
+    },
+    {
+      "title": "Varsity WBB Practice",
+      "date": "March 16",
+      "time": "8:00am - 11:00am"
+    },
+    {
+      "title": "New Hire Orientation",
+      "date": "March 16",
+      "time": "8:30am - 3:00pm"
+    },
+    {
+      "title": "Biology Weekly Seminar",
+      "date": "March 16",
+      "time": "4:00pm - 5:30pm"
+    },
+    {
+      "title": "Masterclass: David Kim, violin",
+      "date": "March 16",
+      "time": "4:00pm - 6:00pm"
+    },
+    {
+      "title": "Native Student Alliance E-Board Meeting",
+      "date": "March 16",
+      "time": "6:00pm - 8:00pm"
+    },
+    {
+      "title": "Undergraduate recital: Kate Kaczmarek, violin",
+      "date": "March 16",
+      "time": "7:30pm - 9:30pm"
+    },
+    {
+      "title": "Winter Quarter Final Exams",
+      "date": "March 17",
+      "time": "12:00am - 11:59pm"
+    },
+    {
+      "title": "Masterclass: David Kim, violin",
+      "date": "March 17",
+      "time": "10:00am - 12:00pm"
+    },
+    {
+      "title": "HRE Departmental Meeting",
+      "date": "March 17",
+      "time": "10:30am - 12:00pm"
+    },
+    {
+      "title": "Women's Leadership Council Meeting",
+      "date": "March 17",
+      "time": "11:00am - 2:00pm"
+    },
+    {
+      "title": "CS Faculty Meetings",
+      "date": "March 17",
+      "time": "12:00pm - 1:30pm"
+    },
+    {
+      "title": "Letters of Love Meeting",
+      "date": "March 17",
+      "time": "5:30pm - 7:00pm"
+    },
+    {
+      "title": "MASA Meeting",
+      "date": "March 18",
+      "time": "11:00am - 12:00pm"
+    },
+    {
+      "title": "RSECS Executive and Leadership Meetings",
+      "date": "March 19",
+      "time": "12:00pm - 1:00pm"
+    },
+    {
+      "title": "DU DAD Club",
+      "date": "March 20",
+      "time": "5:00pm - 11:00pm"
+    },
+    {
+      "title": "Spring Interterm - Contact Academic Programs at 303-871-2804 or 303-871-2448 for Schedule and Registration",
+      "date": "March 21",
+      "time": "12:00am - 11:59pm"
+    },
+    {
+      "title": "MOMIX: Alice",
+      "date": "March 21",
+      "time": "7:30pm - 9:30pm"
+    },
+    {
+      "title": "MOMIX: Alice",
+      "date": "March 22",
+      "time": "2:00pm - 4:00pm"
+    },
+    {
+      "title": "Native Student Alliance E-Board Meeting",
+      "date": "March 23",
+      "time": "6:00pm - 8:00pm"
+    },
+    {
+      "title": "HRE Departmental Meeting",
+      "date": "March 24",
+      "time": "10:30am - 12:00pm"
+    },
+    {
+      "title": "CS Faculty Meetings",
+      "date": "March 24",
+      "time": "12:00pm - 1:30pm"
+    },
+    {
+      "title": "MASA Meeting",
+      "date": "March 25",
+      "time": "11:00am - 12:00pm"
+    },
+    {
+      "title": "Winter Quarter Grade Due from Faculty",
+      "date": "March 26",
+      "time": "12:00am - 10:00pm"
+    },
+    {
+      "title": "RSECS Executive and Leadership Meetings",
+      "date": "March 26",
+      "time": "12:00pm - 1:00pm"
+    },
+    {
+      "title": "Parking Spanish Guitar Night",
+      "date": "March 26",
+      "time": "5:30pm - 9:30pm"
+    },
+    {
+      "title": "Winter Quarter Grades Available Online",
+      "date": "March 27",
+      "time": "12:00am - 11:59pm"
+    },
+    {
+      "title": "Rocky Mountain Color Guard",
+      "date": "March 27",
+      "time": "5:00am - 9:00pm"
+    },
+    {
+      "title": "Adult Drop-In Hockey",
+      "date": "March 27",
+      "time": "6:00am - 7:30am"
+    },
+    {
+      "title": "MLAX vs. Georgetown",
+      "date": "March 28",
+      "time": "1:00pm - 4:00pm"
+    },
+    {
+      "title": "Spring Quarter Last Day to Register without Late Fee",
+      "date": "March 29",
+      "time": "12:00am - 11:59pm"
+    },
+    {
+      "title": "Spring Quarter $25 Late Registration Fee: First Time Registrants",
+      "date": "March 30",
+      "time": "12:00am - 11:59pm"
+    },
+    {
+      "title": "Spring Quarter Classes Begin",
+      "date": "March 30",
+      "time": "12:00am - 11:59pm"
+    },
+    {
+      "title": "School Days Off",
+      "date": "March 30",
+      "time": "7:30am - 4:15pm"
+    },
+    {
+      "title": "School Days Off",
+      "date": "March 30",
+      "time": "9:00am - 3:00pm"
+    },
+    {
+      "title": "School Days Off",
+      "date": "March 30",
+      "time": "10:15am - 12:00pm"
+    },
+    {
+      "title": "Native Student Alliance E-Board Meeting",
+      "date": "March 30",
+      "time": "6:00pm - 8:00pm"
+    },
+    {
+      "title": "Spring Quarter $50 Late Registration Fee: First Time Registrants",
+      "date": "March 31",
+      "time": "12:00am - 11:59pm"
+    },
+    {
+      "title": "School Days Off",
+      "date": "March 31",
+      "time": "7:30am - 4:15pm"
+    },
+    {
+      "title": "School Days Off",
+      "date": "March 31",
+      "time": "9:00am - 3:00pm"
+    },
+    {
+      "title": "School Days Off",
+      "date": "March 31",
+      "time": "10:15am - 12:00pm"
+    },
+    {
+      "title": "HRE Departmental Meeting",
+      "date": "March 31",
+      "time": "10:30am - 12:00pm"
+    },
+    {
+      "title": "CS Faculty Meetings",
+      "date": "March 31",
+      "time": "12:00pm - 1:30pm"
+    }
+  ]
+}

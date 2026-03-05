@@ -1,0 +1,54 @@
+{
+  "events": [
+    {
+      "duTeam": "W Lacrosse",
+      "opponent": "No. 13 Stony Brook",
+      "date": "03/06/2026"
+    },
+    {
+      "duTeam": "M Tennis",
+      "opponent": "New Mexico",
+      "date": "03/06/2026"
+    },
+    {
+      "duTeam": "W Basketball",
+      "opponent": "#3 South Dakota",
+      "date": "03/06/2026"
+    },
+    {
+      "duTeam": "W Gymnastics",
+      "opponent": "Air Force, San Jose State",
+      "date": "03/06/2026"
+    },
+    {
+      "duTeam": "M Hockey",
+      "opponent": "Miami",
+      "date": "03/06/2026"
+    },
+    {
+      "duTeam": "M Basketball",
+      "opponent": "#3 North Dakota",
+      "date": "03/06/2026"
+    },
+    {
+      "duTeam": "W Soccer",
+      "opponent": "Colorado State 8v8 Tournament",
+      "date": "03/07/2026"
+    },
+    {
+      "duTeam": "W Basketball",
+      "opponent": "Semifinals",
+      "date": "03/07/2026"
+    },
+    {
+      "duTeam": "W Tennis",
+      "opponent": "South Dakota",
+      "date": "03/07/2026"
+    },
+    {
+      "duTeam": "M Tennis",
+      "opponent": "Northern Arizona",
+      "date": "03/07/2026"
+    }
+  ]
+}
